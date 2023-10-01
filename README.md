@@ -1,5 +1,8 @@
 
 <p align="center">
+ 
+![Untitled video - Made with Clipchamp (1)](https://github.com/HenokB/Donut/assets/46082799/5b622aff-7f4b-4fb4-80de-35dff7d3d1e7)
+
  <h2 align="center">3D Donut Renderer</h2>
  <p>A simple, interactive ASCII art of a spinning 3D donut in the terminal, implemented in Python. </p>
 
@@ -74,11 +77,10 @@ To visualize the 3D model in a 2D terminal, a perspective projection step is imp
 Ensure Python and pip are correctly installed and in your PATH.
 Adjust time.sleep() delay in the script if the animation speed is not suitable.
 
-## Demo
-
-![Untitled video - Made with Clipchamp (1)](https://github.com/HenokB/Donut/assets/46082799/5b622aff-7f4b-4fb4-80de-35dff7d3d1e7)
-
-
 ## Acknowledgements
 Inspired by the iconic "donut.c" code by [Andy Sloane](https://www.a1k0n.net/).
+
+Contributions are welcome! <3
+
+Made with :heart: and Python.
 
