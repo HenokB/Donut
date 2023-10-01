@@ -1,12 +1,12 @@
+
 <p align="center">
-# 3D Donut Renderer
+ <h2 align="center">3D Donut Renderer</h2>
+ <p>A simple, interactive ASCII art of a spinning 3D donut in the terminal, implemented in Python. </p>
+
 </p>
 
 </p>
   <p align="center">
-    <a href="https://github.com/HenokB/Donut/actions">
-      <img alt="Tests Passing" src="https://github.com/HenokB/Donut/workflows/Test/badge.svg" />
-    </a>
     <a href="https://github.com/HenokB/Donut/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/HenokB/Donut" />
     </a>
@@ -16,14 +16,10 @@
     <a href="https://github.com/HenokB/Donut/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/HenokB/Donut?color=0088ff" />
     </a>
-    <a href="https://securityscorecards.dev/viewer/?uri=github.com/HenokB/Donut">
-      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/HenokB/Donut/badge" />
-    </a>
     <br />
     <br />
   </p>
 
-A simple, interactive ASCII art of a spinning 3D donut in the terminal, implemented in Python.
 
 ## Prerequisites
 
