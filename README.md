@@ -1,7 +1,8 @@
 
 <p align="center">
  
-![Untitled video - Made with Clipchamp (1)](https://github.com/HenokB/Donut/assets/46082799/5b622aff-7f4b-4fb4-80de-35dff7d3d1e7)
+ <img width="100px" src="https://github.com/HenokB/Donut/assets/46082799/5b622aff-7f4b-4fb4-80de-35dff7d3d1e7" align="center" alt="Donut" />
+<!-- ![Untitled video - Made with Clipchamp (1)](https://github.com/HenokB/Donut/assets/46082799/5b622aff-7f4b-4fb4-80de-35dff7d3d1e7) -->
 
  <h2 align="center">3D Donut Renderer</h2>
  <p>A simple, interactive ASCII art of a spinning 3D donut in the terminal, implemented in Python. </p>
