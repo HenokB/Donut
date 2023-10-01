@@ -1,4 +1,27 @@
+<p align="center">
 # 3D Donut Renderer
+</p>
+
+</p>
+  <p align="center">
+    <a href="https://github.com/HenokB/Donut/actions">
+      <img alt="Tests Passing" src="https://github.com/HenokB/Donut/workflows/Test/badge.svg" />
+    </a>
+    <a href="https://github.com/HenokB/Donut/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/HenokB/Donut" />
+    </a>
+    <a href="https://github.com/HenokB/Donut/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/HenokB/Donut?color=0088ff" />
+    </a>
+    <a href="https://github.com/HenokB/Donut/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/HenokB/Donut?color=0088ff" />
+    </a>
+    <a href="https://securityscorecards.dev/viewer/?uri=github.com/HenokB/Donut">
+      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/HenokB/Donut/badge" />
+    </a>
+    <br />
+    <br />
+  </p>
 
 A simple, interactive ASCII art of a spinning 3D donut in the terminal, implemented in Python.
 
@@ -54,6 +77,10 @@ To visualize the 3D model in a 2D terminal, a perspective projection step is imp
 ## Troubleshooting
 Ensure Python and pip are correctly installed and in your PATH.
 Adjust time.sleep() delay in the script if the animation speed is not suitable.
+
+## Demo
+
+![Untitled video - Made with Clipchamp (1)](https://github.com/HenokB/Donut/assets/46082799/5b622aff-7f4b-4fb4-80de-35dff7d3d1e7)
 
 
 ## Acknowledgements
